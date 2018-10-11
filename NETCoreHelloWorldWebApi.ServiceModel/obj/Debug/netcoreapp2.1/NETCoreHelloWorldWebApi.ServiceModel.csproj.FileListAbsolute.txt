@@ -1,0 +1,8 @@
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.deps.json
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.AssemblyInfo.cs
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.ServiceModel\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.ServiceModel.pdb

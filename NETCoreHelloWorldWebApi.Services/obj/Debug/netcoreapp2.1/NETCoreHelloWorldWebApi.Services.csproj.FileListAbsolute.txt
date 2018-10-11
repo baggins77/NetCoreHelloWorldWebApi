@@ -1,0 +1,14 @@
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.deps.json
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.dll
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.csproj.CoreCompileInputs.cache
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.AssemblyInfoInputs.cache
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.AssemblyInfo.cs
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.csprojAssemblyReference.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.csproj.CopyComplete
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Services\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Services.pdb

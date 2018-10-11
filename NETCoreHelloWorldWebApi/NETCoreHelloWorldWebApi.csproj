@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Mapping\Inbound\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="3.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NETCoreHelloWorldWebApi.Persistence\NETCoreHelloWorldWebApi.Persistence.csproj" />
+    <ProjectReference Include="..\NETCoreHelloWorldWebApi.ServiceModel\NETCoreHelloWorldWebApi.ServiceModel.csproj" />
+    <ProjectReference Include="..\NETCoreHelloWorldWebApi.Services\NETCoreHelloWorldWebApi.Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.deps.json
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.csprojAssemblyReference.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.AssemblyInfoInputs.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.AssemblyInfo.cs
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.runtimeconfig.json
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.runtimeconfig.dev.json
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Tests\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Tests.csproj.CopyComplete

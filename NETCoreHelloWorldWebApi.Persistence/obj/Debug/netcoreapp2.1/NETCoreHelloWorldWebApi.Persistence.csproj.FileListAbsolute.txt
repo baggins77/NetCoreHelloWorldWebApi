@@ -1,0 +1,12 @@
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.dll
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.csprojAssemblyReference.cache
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.csproj.CoreCompileInputs.cache
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.AssemblyInfoInputs.cache
+c:\users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.AssemblyInfo.cs
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.deps.json
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.csproj.CopyComplete
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Persistence\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Persistence.pdb

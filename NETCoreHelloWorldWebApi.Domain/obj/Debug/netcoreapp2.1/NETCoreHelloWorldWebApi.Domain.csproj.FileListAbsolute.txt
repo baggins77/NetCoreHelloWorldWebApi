@@ -1,0 +1,9 @@
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.deps.json
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\bin\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.AssemblyInfo.cs
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.dll
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.pdb
+C:\Users\bbagley\Source\repos\NETCoreHelloWorldWebApi\NETCoreHelloWorldWebApi.Domain\obj\Debug\netcoreapp2.1\NETCoreHelloWorldWebApi.Domain.csprojAssemblyReference.cache
